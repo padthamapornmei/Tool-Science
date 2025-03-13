@@ -1,4 +1,10 @@
 # Tool-Science
+ทีมเราได้มีการเเบ่งงานทำข้อมูล ใน 3 ส่วน
+
+1. Time Series Analysis
+2. Price Analysis
+3. Dash board Performance
+
 Member in Group
 1.ชนากานต์ สุวรรณฉวี 6504053620036
 2.พรรณวรินทร์ รถทอง 650405362017
