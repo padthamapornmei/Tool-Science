@@ -3,7 +3,7 @@
 
 1. Time Series Analysis
 2. Price Analysis
-3. Dash board Performance
+3. Dashboard Performance
 
 Member in Group
 1. ชนากานต์ สุวรรณฉวี 6504053620036
